@@ -1,6 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
-local Webhooks = {
+local Webhooks = { -- thank god you know webhooks go in server
     ['pawnone'] = 'https://discord.com/api/webhooks/1356038479238402179/40F4CMGGvpqOXFxWBPFER1mxSvXVC-5YK4QopwHEPm4XioezpOxs6OVX0upo9zM99Ys4',
     ['pawntwo'] = 'webook',  
 }

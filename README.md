@@ -1,4 +1,4 @@
-# EXRP_Pawn
+# exrp-pawn
 A player run pawnshop system with a sharp in mind! 
 
 Dependencies:

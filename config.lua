@@ -71,7 +71,7 @@ Config.BlacklistedItems = { 'weapon_grenade', 'weapon_bzgas', 'weapon_rpg' }
 
 Config.ShowOnlyItemsList = {
 "phone",
-"goldcoing",
+"goldcoin",
 "silvercoin",
 
 
